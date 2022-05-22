@@ -7,7 +7,7 @@
 
 #define delay(x) vTaskDelay(x)
 
-#define E2213JS0C1_CS 32
+#define E2213JS0C1_CS 5
 #define E2213JS0C1_DC 26
 #define E2213JS0C1_RST 25
 #define E2213JS0C1_BUSY 27
